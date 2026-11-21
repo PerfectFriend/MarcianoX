@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MarcianoX</string>
+    <string name="tor_routing">RUTA TOR</string>
+    <string name="decoy_systems">SISTEMAS SEÑUELO</string>
+    <string name="chain_tunnel">TÚNEL EN CADENA</string>
+    <string name="active_profile">PERFIL DE INTEGRIDAD DEL SISTEMA</string>
+    <string name="heap_audit">AUDITORÍA Y ZEROIZADOR DE MEMORIA</string>
+    <string name="duress_disclaimer">PROTOCOLOS DE COACCIÓN: Ingresar su PIN de Alerta en la pantalla de bloqueo carga un perfil falso. El PIN de Pánico destruye instantáneamente las claves de cifrado y los datos.</string>
+    <string name="connect_chain">CONECTAR CADENA</string>
+    <string name="disconnect_chain">DESCONECTAR CADENA</string>
+    <string name="socks_logs">REGISTROS SOCKS5 EN TIEMPO REAL</string>
+    <string name="socks_daemon">DEMONIO SOCKS5 LOCAL</string>
+    <string name="route_tester">PROBADOR DE RUTA (.ONION)</string>
+    <string name="close_center">CERRAR CONFIGURACIÓN</string>
+    <string name="add_custom">AÑADIR NODO</string>
+    <string name="burn_timeout_label">Autodestrucción de no entregados (N):</string>
+    <string name="onion_proxy_label">Modo de proxy Onion:</string>
+    <string name="time_warp_label">Acelerar tiempo de cola (Pruebas):</string>
+    <string name="import_config">IMPORTAR CONFIG</string>
+</resources>

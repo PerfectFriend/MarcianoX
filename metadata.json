@@ -1,0 +1,6 @@
+{
+  "name": "MarcianoX",
+  "description": "MarcianoX - A highly secure, decentralized private messaging application implementing unidirectional queues, end-to-end AES-GCM encryption, 6-digit lockscreen with decoy panic pin codes, and instantaneous panic memory zeroization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

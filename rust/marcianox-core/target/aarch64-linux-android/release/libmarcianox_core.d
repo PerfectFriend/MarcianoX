@@ -1,0 +1,1 @@
+/app/applet/rust/marcianox-core/target/aarch64-linux-android/release/libmarcianox_core.rlib: /app/applet/rust/marcianox-core/src/crypto.rs /app/applet/rust/marcianox-core/src/lib.rs /app/applet/rust/marcianox-core/src/network.rs /app/applet/rust/marcianox-core/src/vault.rs

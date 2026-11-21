@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MarcianoX</string>
+    <string name="tor_routing">ROUTAGE TOR</string>
+    <string name="decoy_systems">SYSTÈMES LEURRES</string>
+    <string name="chain_tunnel">TUNNEL EN CHAÎNE</string>
+    <string name="active_profile">PROFIL DE SÉCURITÉ DU SYSTÈME</string>
+    <string name="heap_audit">AUDIT &amp; REMISE À ZÉRO DE LA MÉMOIRE</string>
+    <string name="duress_disclaimer">PROTOCOLES SOUS CONTRAINTE: Saisir votre code PIN de Détresse sur l\'écran de verrouillage charge un faux profil. Saisir votre code PIN de Panique détruit instantanément les clés de chiffrement.</string>
+    <string name="connect_chain">LANCER LA CHAÎNE</string>
+    <string name="disconnect_chain">COUPER LA CHAÎNE</string>
+    <string name="socks_logs">LOGS SOCKS5 EN TEMPS RÉEL</string>
+    <string name="socks_daemon">DÉMON SOCKS5 LOCAL</string>
+    <string name="route_tester">TESTEUR DE ROUTE (.ONION)</string>
+    <string name="close_center">FERMER LE CENTRE</string>
+    <string name="add_custom">AJOUTER UN NŒUD</string>
+    <string name="burn_timeout_label">Autodestruction si non distribué (N):</string>
+    <string name="onion_proxy_label">Mode Proxy Onion:</string>
+    <string name="time_warp_label">Accélérer temps de file (Tests):</string>
+    <string name="import_config">IMPORTER CONFIG</string>
+</resources>

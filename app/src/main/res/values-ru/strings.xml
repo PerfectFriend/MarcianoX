@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MarcianoX</string>
+    <string name="tor_routing">ТОР МАРШРУТЫ</string>
+    <string name="decoy_systems">ПРИМАНКИ</string>
+    <string name="chain_tunnel">ЦЕПОЧКА МОСТОВ</string>
+    <string name="active_profile">АКТИВНЫЙ ПРОФИЛЬ ТРАФИКА</string>
+    <string name="heap_audit">ОЧИСТКА И ОБНУЛЕНИЕ ОЗУ</string>
+    <string name="duress_disclaimer">ПРОТОКОЛЫ ПОД ПРИНУЖДЕНИЕМ: Ввод тревожного PIN-кода на экране блокировки загружает фейковый профиль. Ввод экстренного Panic PIN-кода мгновенно стирает все ключи шифрования и уничтожает базы данных.</string>
+    <string name="connect_chain">ЗАПУСТИТЬ ЦЕПОЧКУ</string>
+    <string name="disconnect_chain">РАЗОРВАТЬ ЦЕПОЧКУ</string>
+    <string name="socks_logs">ЛОГИ SOCKS5 В РЕАЛЬНОМ ВРЕМЕНИ</string>
+    <string name="socks_daemon">ЛОКАЛЬНЫЙ ДЕМОН SOCKS5</string>
+    <string name="route_tester">ТЕСТЕР МАРШРУТА (ПИНГ .ONION АДРЕСА)</string>
+    <string name="close_center">ЗАКРЫТЬ ЦЕНТР</string>
+    <string name="add_custom">ДОБАВИТЬ НОДУ</string>
+    <string name="burn_timeout_label">Автосжигание недоставленных (N):</string>
+    <string name="onion_proxy_label">Прокси-режим Onion сети:</string>
+    <string name="time_warp_label">Временной варп очереди (Тесты):</string>
+    <string name="import_config">ИМПОРТИРОВАТЬ КОНФИГ</string>
+</resources>
